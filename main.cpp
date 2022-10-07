@@ -1,4 +1,7 @@
-//  trashgex © 2022 by Hackintosh Five is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+// trashgex © 2022 by Hackintosh Five is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+// Trashguy invented by Zacci (and painor?)
+// Inspired by work on Trashguy regexes by Monster Alien
+
 
 #define PCRE2_CODE_UNIT_WIDTH 8
 
